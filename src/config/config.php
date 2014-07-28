@@ -16,7 +16,7 @@ return array(
     /**
      * Paypal Murtund Account Id
      */
-    "business" => 'vek@lakhaniinfotech.com',
+    "business" => 'example@example.com',
     /**
      * Currency Code  
      *  Value :-
