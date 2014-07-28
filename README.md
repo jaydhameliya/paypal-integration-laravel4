@@ -1,6 +1,6 @@
 Installation
 ===========================
-Begin by installing this package through Composer. Edit your project's <code>composer.json</code> file to require <code>dinesh/bugonemail</code>.
+Begin by installing this package through Composer. Edit your project's <code>composer.json</code> file to require <code>jay/paypal</code>.
 
 <pre>
 <code>
